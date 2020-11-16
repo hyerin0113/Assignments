@@ -1,6 +1,6 @@
 # Assignments
 
-## 2020-2
+### 2020-2
 
 Index | Subject
 :-: | :-:
